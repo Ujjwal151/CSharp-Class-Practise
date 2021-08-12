@@ -1,0 +1,16 @@
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\bin\Debug\net5.0\Class 7.exe
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\bin\Debug\net5.0\Class 7.deps.json
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\bin\Debug\net5.0\Class 7.runtimeconfig.json
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\bin\Debug\net5.0\Class 7.runtimeconfig.dev.json
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\bin\Debug\net5.0\Class 7.dll
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\bin\Debug\net5.0\ref\Class 7.dll
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\bin\Debug\net5.0\Class 7.pdb
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\obj\Debug\net5.0\Class 7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\obj\Debug\net5.0\Class 7.AssemblyInfoInputs.cache
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\obj\Debug\net5.0\Class 7.AssemblyInfo.cs
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\obj\Debug\net5.0\Class 7.csproj.CoreCompileInputs.cache
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\obj\Debug\net5.0\Class 7.dll
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\obj\Debug\net5.0\ref\Class 7.dll
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\obj\Debug\net5.0\Class 7.pdb
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\obj\Debug\net5.0\Class 7.genruntimeconfig.cache
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 7\obj\Debug\net5.0\Class 7.csproj.AssemblyReference.cache
