@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Devskill C#\\CSharp-Class-Practise\\CSharp Class Practise\\Class 11 Abstract interface Sealed Struct Enum\\Class 11 Abstract interface Sealed Struct Enum.csproj": {}
+  },
+  "projects": {
+    "E:\\Devskill C#\\CSharp-Class-Practise\\CSharp Class Practise\\Class 11 Abstract interface Sealed Struct Enum\\Class 11 Abstract interface Sealed Struct Enum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Devskill C#\\CSharp-Class-Practise\\CSharp Class Practise\\Class 11 Abstract interface Sealed Struct Enum\\Class 11 Abstract interface Sealed Struct Enum.csproj",
+        "projectName": "Class 11 Abstract interface Sealed Struct Enum",
+        "projectPath": "E:\\Devskill C#\\CSharp-Class-Practise\\CSharp Class Practise\\Class 11 Abstract interface Sealed Struct Enum\\Class 11 Abstract interface Sealed Struct Enum.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "E:\\Devskill C#\\CSharp-Class-Practise\\CSharp Class Practise\\Class 11 Abstract interface Sealed Struct Enum\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Devskill C#\\CSharp-Class-Practise\\CSharp Class Practise\\Class 12 DateTimes\\Class 12 DateTimes.csproj": {
+                "projectPath": "E:\\Devskill C#\\CSharp-Class-Practise\\CSharp Class Practise\\Class 12 DateTimes\\Class 12 DateTimes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Devskill C#\\CSharp-Class-Practise\\CSharp Class Practise\\Class 12 DateTimes\\Class 12 DateTimes.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Devskill C#\\CSharp-Class-Practise\\CSharp Class Practise\\Class 12 DateTimes\\Class 12 DateTimes.csproj",
+        "projectName": "Class 12 DateTimes",
+        "projectPath": "E:\\Devskill C#\\CSharp-Class-Practise\\CSharp Class Practise\\Class 12 DateTimes\\Class 12 DateTimes.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

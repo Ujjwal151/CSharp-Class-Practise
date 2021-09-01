@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Class_7
 {
-    class Student
+    public class Student
     {
         public string name; // It can ba accessed anywhere in the project
 

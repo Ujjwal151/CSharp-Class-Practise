@@ -1,0 +1,7 @@
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Interface\bin\Debug\Class 11 Interface.exe.config
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Interface\bin\Debug\Class 11 Interface.exe
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Interface\bin\Debug\Class 11 Interface.pdb
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Interface\obj\Debug\Class 11 Interface.csproj.AssemblyReference.cache
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Interface\obj\Debug\Class 11 Interface.csproj.CoreCompileInputs.cache
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Interface\obj\Debug\Class 11 Interface.exe
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Interface\obj\Debug\Class 11 Interface.pdb

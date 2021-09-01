@@ -1,0 +1,16 @@
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\bin\Debug\net5.0\Class 6 String methods.exe
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\bin\Debug\net5.0\Class 6 String methods.deps.json
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\bin\Debug\net5.0\Class 6 String methods.runtimeconfig.json
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\bin\Debug\net5.0\Class 6 String methods.runtimeconfig.dev.json
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\bin\Debug\net5.0\Class 6 String methods.dll
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\bin\Debug\net5.0\ref\Class 6 String methods.dll
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\bin\Debug\net5.0\Class 6 String methods.pdb
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\obj\Debug\net5.0\Class 6 String methods.csproj.AssemblyReference.cache
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\obj\Debug\net5.0\Class 6 String methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\obj\Debug\net5.0\Class 6 String methods.AssemblyInfoInputs.cache
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\obj\Debug\net5.0\Class 6 String methods.AssemblyInfo.cs
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\obj\Debug\net5.0\Class 6 String methods.csproj.CoreCompileInputs.cache
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\obj\Debug\net5.0\Class 6 String methods.dll
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\obj\Debug\net5.0\ref\Class 6 String methods.dll
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\obj\Debug\net5.0\Class 6 String methods.pdb
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 6 String methods\obj\Debug\net5.0\Class 6 String methods.genruntimeconfig.cache

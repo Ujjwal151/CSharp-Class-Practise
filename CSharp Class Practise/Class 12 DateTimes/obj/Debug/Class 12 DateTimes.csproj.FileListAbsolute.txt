@@ -1,0 +1,7 @@
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 12 DateTimes\bin\Debug\Class 12 DateTimes.exe.config
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 12 DateTimes\bin\Debug\Class 12 DateTimes.exe
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 12 DateTimes\bin\Debug\Class 12 DateTimes.pdb
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 12 DateTimes\obj\Debug\Class 12 DateTimes.csproj.CoreCompileInputs.cache
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 12 DateTimes\obj\Debug\Class 12 DateTimes.exe
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 12 DateTimes\obj\Debug\Class 12 DateTimes.pdb
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 12 DateTimes\obj\Debug\Class 12 DateTimes.csproj.AssemblyReference.cache

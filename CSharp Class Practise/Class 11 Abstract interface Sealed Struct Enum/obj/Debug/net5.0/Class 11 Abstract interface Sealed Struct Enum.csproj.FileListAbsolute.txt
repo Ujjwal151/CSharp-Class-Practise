@@ -1,0 +1,16 @@
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\obj\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.csproj.AssemblyReference.cache
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\obj\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\obj\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.AssemblyInfoInputs.cache
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\obj\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.AssemblyInfo.cs
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\obj\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.csproj.CoreCompileInputs.cache
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\bin\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.exe
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\bin\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.deps.json
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\bin\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.runtimeconfig.json
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\bin\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.runtimeconfig.dev.json
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\bin\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.dll
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\bin\Debug\net5.0\ref\Class 11 Abstract interface Sealed Struct Enum.dll
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\bin\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.pdb
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\obj\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.dll
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\obj\Debug\net5.0\ref\Class 11 Abstract interface Sealed Struct Enum.dll
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\obj\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.pdb
+E:\Devskill C#\CSharp-Class-Practise\CSharp Class Practise\Class 11 Abstract interface Sealed Struct Enum\obj\Debug\net5.0\Class 11 Abstract interface Sealed Struct Enum.genruntimeconfig.cache

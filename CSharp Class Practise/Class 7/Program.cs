@@ -12,13 +12,11 @@ namespace Class_7
             st1.Cgpa = 3.50;
             st1.mob = "01792427407";
 
-
             Console.WriteLine(st1.name);
             Console.WriteLine(st1.GetAge());
             Console.WriteLine(st1.Cgpa);
             Console.WriteLine(st1.mob);
-
-            string str;
+            
             
         }
     }
